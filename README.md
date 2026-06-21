@@ -104,3 +104,5 @@ of emulation of modern devices and operating systems. **It is not for enabling
 illegal activity**. All information is obtained via reverse engineering of
 legally purchased devices and games and information made public on the internet
 (you'd be surprised what's indexed on Google...).
+
+teste
